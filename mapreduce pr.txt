@@ -1,0 +1,6 @@
+Develop a MapReduce program to find the tags/keywords associated with each movie and identify the most frequently occurring keywords
+across all movies.
+
+Develop a MapReduce program to find the total revenue, average budget, and average popularity of movies for each genre.
+
+Develop a MapReduce program to find the most frequently used words in movie taglines across all movies.
